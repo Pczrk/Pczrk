@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning python, C and C++.
 - 📫 How to reach me 47p4tryk5@gmail.com
 - 👀 My [website](https://pczrk.github.io)
+
+Papers with code article: [Scikit-learn: Machine Learning in Python](https://paperswithcode.com/paper/scikit-learn-machine-learning-in-python)
+
+My fork: [scikit-learn](https://github.com/Pczrk/scikit-learn)
 <!--- - 
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ... --->
