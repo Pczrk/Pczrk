@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pczrk
-- 📝 I'm currently studing IT (faculty WEAIiIB) on AGH University of Science and Technology in Cracow.
+- 📝 I'm currently studing IT (faculty WEAIiIB) on AGH University of Science and Technology in Cracow. :green_heart: :black_heart: :heart:
 - 🌱 I’m currently learning python, C and C++.
 - 📫 How to reach me 47p4tryk5@gmail.com
 - 👀 My [website](https://pczrk.github.io)
