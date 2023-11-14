@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Patryk @Pczrk Skowron
 - 📝 I'm currently studing Computer Science and Intelligent Systems on AGH University of Science and Technology in Cracow. 
-- 🌱 I’m currently learning python, C and C++.
+- 🌱 I’m currently learning python, java, SQL, C and C++.
 - 📫 How to reach me 47p4tryk5@gmail.com
